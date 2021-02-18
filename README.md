@@ -3,15 +3,20 @@
 ### Detección de personas en tiempo real con TensorFlow.js
 
 Este proyecto esta basado en este repo:
+
 https://github.com/FranciscoImanolSuarez/Tensorflow-js-imagenes-en-tiempo-real.git
 
-Luego ejecuta
+instalar las dependencias
 
-### `npm install`
+```
+npm install
+```
 
-Por ultimo
+Correr el proyecto
 
-### `npm start`
+```
+npm start
+```
 
 ### Articulo completo en Medium
 
