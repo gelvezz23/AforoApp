@@ -1,0 +1,40 @@
+/** @format */
+
+.App {
+    width: 100%;
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+/** @format */
+.canvas{
+    position: absolute;
+    top: 10rem
+
+  }
+
+
+.size {
+   max-width: 600px;
+   max-height: 600px;
+}
+
+.App-header {
+    width: 100%;
+    max-width: 1200px;
+	background-color: #282c34;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #cffb61;
+}
